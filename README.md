@@ -30,14 +30,18 @@ The challenge for this video is write an entirely different script using [TF Lea
 
 Result
 ===========
-The sentences generated weren't very.. Hmm how do you say it? Intelligent? I've listed some below and you probably agree with me.
-To be honest I didn't expect much of it, but it was fun transforming the code into something that works with other data as well.
+The sentences generated weren't very.. Hmm how do you say it? Intelligent? I've listed some below and you probably agree with me. To be honest I didn't expect much of it, but it was fun transforming the code into something that works with other data as well.
 
-Examples of output:
+Example of output:
+*about it and the heavy she beukais 'geiloau
+th lo
+tees h rfe ouod anherh Bis wg deeatas!er Taat Cn miiand wheut cpenoryem, fanat mesres owea
+isrighe wise t ts  ore v ratm ta wd iaudlerrd teek fr ohe ntodd ton Eomeedeiawod nh rd.s te bsel pouboniat.ek Wede rh  on oe de h toes we ouopiueuteeo  ih aandee nme .e ̂e nh sorar DneoWed noord qkeacm? fas
+rw'khe n -asor nh gw Gfes Ch nonD roih la fhen bh ileimrn rhot lhide Tol gt wamig thiw weurederolr rodeuner uy s gise nor yl w daeteemgadeav har rh w S th faaf ahed rger any.ed ds vit aaorahraseo-r naud hoewi'np lt n uwr nti riade di tkd! te 
+usid ihe,e bg fh ca oag wd ahosola*
 
 
-
-Which do you like the most?
+The sentence does match the [video](https://www.youtube.com/watch?v=9U2pINNSpHE) Sirajology showing at the end of his video xD. 
 
 P.S. the entire list of sentences is in the 'the_awesome_lotr_sentences_file.txt' file!
 
