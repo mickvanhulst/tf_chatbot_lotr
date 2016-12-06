@@ -56,13 +56,3 @@ for i in range(10):
   gandaalfff = m.generate(600, temperature=1.0, seq_seed=seed) #random sentence
   the_awesome_lotr_sentences_file.write("\r%s\n" % gandaalfff)
   print('GANDALLFFFFF sentence: ' + i)
-
-
-#print("-- TESTING...")
-#print("-- Test with temperature of 1.0 --")
-#print(m.generate(600, temperature=1.0, seq_seed=seed))
-#print("-- Test with temperature of 0.5 --")
-#print(m.generate(600, temperature=0.5, seq_seed=seed))
-
-
-#print(seed)
