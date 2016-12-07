@@ -42,7 +42,7 @@ rw'khe n -asor nh gw Gfes Ch nonD roih la fhen bh ileimrn rhot lhide Tol gt wami
 usid ihe,e bg fh ca oag wd ahosola*
 
 
-The sentence does match the [video](https://www.youtube.com/watch?v=9U2pINNSpHE) Sirajology showing at the end of his video xD. 
+For all you non-lotr fans out there. These generated sentences are actually Gandalfish (which is a real language). Check out this [video](https://www.youtube.com/watch?v=9U2pINNSpHE) for a quick introduction to Gandalfish!
 
 P.S. the entire list of sentences is in the 'the_awesome_lotr_sentences_file.txt' file!
 
